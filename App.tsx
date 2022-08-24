@@ -1,6 +1,6 @@
 import React from 'react'
-import { SafeAreaView } from 'react-native'
+import HomePage from './src/screen/home'
 
-const App = () => <SafeAreaView></SafeAreaView>
+const App = () => <HomePage />
 
 export default App
